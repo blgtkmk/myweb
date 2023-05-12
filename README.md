@@ -1,5 +1,5 @@
 # Oluşturduğum ilK web site
 Bu projeyi css js html teknolojilerini kullanarak geliştirdim.
 
-![screenshot]([https://we.tl/t-xFf41y835O](https://r.resimlink.com/qMQHUitBba7.png))
 
+![github-image](https://github.com/blgtkmk/myweb/assets/106472550/d8c17969-a981-44b7-99c7-dc247e75ed79)
